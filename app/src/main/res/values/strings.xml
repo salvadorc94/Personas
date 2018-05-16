@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="lblRegistrar">Registrar Usuario</string>
+    <string name="lblModificar">Modificar Usuario</string>
+    <string name="hint_dui">DUI</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="lblBuscar">Buscar</string>
+    <string name="lbl_actualizar">Actualizar</string>
+    <string name="lbl_eliminar">Eliminar</string>
+    <string name="lbl_limpiar">Limpiar</string>
+</resources>
